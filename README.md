@@ -6,9 +6,8 @@ QA automated testing evaluation project using Cypress.io
 - Clone a copy of the `isurooo/cypress-eval` repo locally
 - Navigate to the `cypress-eval` folder
 - Run `npm i` command
-- cd /your/project/path
-- `npm install cypress --save-dev`
-- Run `npm run cypress` command
+- `npm install --save-dev cypress@11.1.0 `
+- Run `npx run cypress` command
 
 ### The First Scenario
 
