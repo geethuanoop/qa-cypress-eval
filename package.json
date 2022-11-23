@@ -4,7 +4,7 @@
   "description": "QA automated testing evaluation project using Cypress.io",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/isurooo/cypress-eval.git"
+    "url": "git+https://github.com/ZUJUGP/qa-cypress-eval.git"
   },
   "main": "index.js",
   "scripts": {
