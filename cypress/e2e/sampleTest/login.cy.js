@@ -9,7 +9,8 @@ describe('Forms', () => {
   })
 
   it('should display the Autocomplete title', () => {
-    cy.get('.signin-modal')
+    cy.get('.MuiTypography-h2')
       .should('contain', 'Welcome to ZUJU KICKOFF')
+      
   })
 })
