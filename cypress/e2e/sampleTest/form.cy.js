@@ -1,4 +1,4 @@
-const Form_URL = '/automation-practice-form/'
+const Form_URL = '/#sign-in'
 
 describe('Forms', () => {
   before(() => {
@@ -9,7 +9,7 @@ describe('Forms', () => {
   })
 
   it('should display the Autocomplete title', () => {
-    cy.get('.main-header')
-      .should('contain', 'Practice Form')
+    cy.get('.signin-modal')
+      .should('contain', 'Welcome to ZUJU KICKOFF')
   })
 })

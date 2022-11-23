@@ -12,9 +12,11 @@ QA automated testing evaluation project using Cypress.io
 ### The First Scenario
 
 - Open the browser
-- Visit https://demoqa.com/automation-practice-form
+- Visit https://beta-app.zujudigital.com/#sign-in
 - Find that page's header
 - Make sure the text is "Practice Form"
+-  zujutest+automation@gmail.com 
+ TestAuto123
 
 # Basic Scenarios to Automate
 
