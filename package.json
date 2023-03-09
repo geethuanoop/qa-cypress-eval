@@ -1,7 +1,7 @@
 {
   "name": "qa-cypress-eval",
   "version": "1.0.0",
-  "description": "QA automated testing evaluation project using Cypress.io",
+  "description": "QA anpm run cypressautomated testing evaluation project using Cypress.io",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ZUJUGP/qa-cypress-eval.git"
